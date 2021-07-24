@@ -1,5 +1,5 @@
 <?php
 
-require "index.html";
+require "bsproject1.html";
 
 ?>
